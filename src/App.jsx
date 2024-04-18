@@ -1,5 +1,4 @@
 import { Button, Flex, Heading } from '@chakra-ui/react'
-import './App.css'
 import labImage from './img/lab.jpeg';
 
 function App() {
